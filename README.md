@@ -88,25 +88,29 @@ Authorization: Bearer <token>
 | recipes | Recetas de crafteo |
 | inventory | Inventario por jugador |
 
-## Documentación Swagger
-
-```
-https://mc-inventory.onrender.com/api/docs
-```
-
 ## Deploy
 
 La API está desplegada en Render y disponible en:
 
 Base URL:
+```
 https://mc-inventory.onrender.com
+```
 
 Endpoints disponibles:
+```
 https://mc-inventory.onrender.com/api/auth
 https://mc-inventory.onrender.com/api/users
 https://mc-inventory.onrender.com/api/items
 https://mc-inventory.onrender.com/api/recipes
 https://mc-inventory.onrender.com/api/inventory
+```
+
+## Swagger
+
+```
+https://mc-inventory.onrender.com/api/docs
+```
 
 ## Autor
 
