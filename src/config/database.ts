@@ -8,9 +8,9 @@ export async function connectDB(): Promise<void> {
     const client = new MongoClient(env.mongoUri);
     await client.connect();
     db = client.db(env.mongoDbName);
-    console.log("✅ MongoDB conectado correctamente");
+    console.log("MongoDB conectado correctamente");
   } catch (error) {
-    console.error("❌ Error conectando MongoDB:", error);
+    console.error("Error conectando MongoDB:", error);
     process.exit(1);
   }
 }
