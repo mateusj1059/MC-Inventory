@@ -99,7 +99,7 @@ https://mc-inventory.onrender.com
 
 Endpoints disponibles:
 ```
-https://mc-inventory.onrender.com/api/auth
+
 https://mc-inventory.onrender.com/api/users
 https://mc-inventory.onrender.com/api/items
 https://mc-inventory.onrender.com/api/recipes
