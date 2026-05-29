@@ -97,15 +97,6 @@ Base URL:
 https://mc-inventory.onrender.com
 ```
 
-Endpoints disponibles:
-```
-
-https://mc-inventory.onrender.com/api/users
-https://mc-inventory.onrender.com/api/items
-https://mc-inventory.onrender.com/api/recipes
-https://mc-inventory.onrender.com/api/inventory
-```
-
 ## Swagger
 
 ```
